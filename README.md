@@ -13,9 +13,9 @@
 * Neuman, S. (2019, 31 octobre). *Fiat chrysler and peugeot agree on merger to create 4th-largest carmaker.* npr.org.
   * [https://www.stellantis.com/en/company/about-us](https://www.stellantis.com/en/company/about-us)
    
-* Stellantis. (2023). *About us, Stellantis.* stellantis.com.
+* Stellantis. (2023a). *About us, Stellantis.* stellantis.com.
   * [https://www.stellantis.com/en/company/about-us](https://www.stellantis.com/en/company/about-us)
-*  Stellantis. (2023). *Documentation interne.*
+*  Stellantis. (2023b). *Documentation interne.*
 
 * Stellantis N.V. (2021). *Articles of association.*
    * [https://www.stellantis.com/content/dam/stellantis-corporate/group/governance/corporate-regulations/Unofficial_English_Translation_Articles_of_Association_Stellantis.pdf](https://www.stellantis.com/content/dam/stellantis-corporate/group/governance/corporate-regulations/Unofficial_English_Translation_Articles_of_Association_Stellantis.pdf)
