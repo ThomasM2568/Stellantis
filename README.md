@@ -4,6 +4,9 @@
 
 ### Sitographie de mon affiche de présentation du groupe Stellantis 
 
+* Beresford, C. (2021, 18 janvier). *It’s Official : Fiat Chrysler and PSA Group are now Stellantis.* caranddriver.com.
+  * [https://www.caranddriver.com/news/a35254008/fiat-chrysler-peugeot-become-stellantis/](https://www.caranddriver.com/news/a35254008/fiat-chrysler-peugeot-become-stellantis/)
+
 * FCA & PSA. (2020, 13 juillet). *The name of the new group resulting from the merger of FCA and Groupe PSA.* media.stellantis.com.
   * [https://www.media.stellantis.com/em-en/fca-archive/press/stellantis-the-name-of-the-new-group-resulting-from-the-merger-of-fca-and-groupe-psa](https://www.media.stellantis.com/em-en/fca-archive/press/stellantis-the-name-of-the-new-group-resulting-from-the-merger-of-fca-and-groupe-psa)
 
@@ -21,6 +24,9 @@
   * [https://www.stellantis.com/en/company/about-us](https://www.stellantis.com/en/company/about-us)
     
 *  Stellantis. (2023b). *Documentation interne.*
+
+*  Stellantis. (2023c). *Nos implantations.* stellantisfinancialservices.com.
+    * [https://www.stellantisfinancialservices.com/fr/nos-implantations](https://www.stellantisfinancialservices.com/fr/nos-implantations)
 
 * Stellantis N.V. (2021). *Articles of association.*
    * [https://www.stellantis.com/content/dam/stellantis-corporate/group/governance/corporate-regulations/Unofficial_English_Translation_Articles_of_Association_Stellantis.pdf](https://www.stellantis.com/content/dam/stellantis-corporate/group/governance/corporate-regulations/Unofficial_English_Translation_Articles_of_Association_Stellantis.pdf)
