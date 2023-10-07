@@ -1,6 +1,12 @@
 # Présentation du groupe Stellantis
 
 -------------------------------
+### Dare Forward 2023
+Stellantis s'engage à façonner l'avenir de la mobilité avec innovation et durabilité. Le plan stratégique, Dare Forward 2030 vise à doubler le chiffre d'affaires net du groupe d'ici 2030 par rapport à 2021 et à maintenir une marge opérationnelle élevée. Stellantis a pour objectif d'atteindre la neutralité carbone d'ici 2038 et de créer de la valeur pour toutes les parties prenantes.
+
+Pour en savoir plus :
+https://www.youtube.com/watch?v=Bx7AO-8NEZ4&embeds_referring_euri=https%3A%2F%2Fwww.stellantis.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.stellantis.com&source_ve_path=MjM4NTE&feature=emb_title
+
 
 ### Sitographie de mon affiche de présentation du groupe Stellantis 
 
@@ -39,3 +45,6 @@
 * Figure 3 : Stellantis. (2023d) *Publicité Peugeot Eletric Tour* [Vidéo]. stellantis.com.
 * Figure 4 : Stellantis. (2023e). [Photographie de la présentation du nouveau Peugeot 3008 Electrique à Sochaux (France) 2023] [Photographie] Documentation interne.
 * Figure 5 : Stellantis. (2022a). [Graphique du programme "Dare Forward 2023"] [Infographie]. Documentation interne. 
+
+
+Thomas MIRBEY, BUT RT3 parcours IOM, Alternant Stellantis
