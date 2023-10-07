@@ -2,7 +2,7 @@
 
 -------------------------------
 
-### Sitographie de mon affiche de présentation du groupe Stellantis
+### Sitographie de mon affiche de présentation du groupe Stellantis 
 
 * Stellantis. (2023). *About us, Stellantis. stellantis.com.* https://www.stellantis.com/en/company/about-us
   * [Sous-élément A](https://www.stellantis.com/en/company/about-us)
