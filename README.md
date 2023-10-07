@@ -3,7 +3,7 @@
 -------------------------------
 
 ### Sitographie de mon affiche de présentation du groupe Stellantis
-
+#
 * Élément 1
   * Sous-élément A
   * Sous-élément B
