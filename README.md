@@ -36,3 +36,6 @@
 * Figure 1 : Stellantis. (2021). [Marques du groupe Stellantis] [Infographie]. Image Interne.
 * Figure 2 : Stellantis. (2023c). *Nos implantations* [Infographie].
    * [www.stellantisfinancialservices.com. https://www.stellantisfinancialservices.com/fr/nos-implantations](www.stellantisfinancialservices.com. https://www.stellantisfinancialservices.com/fr/nos-implantations)
+* Figure 3 : Stellantis. (2023d) *Publicité Peugeot Eletric Tour* [Vidéo]. stellantis.com.
+* Figure 4 : Stellantis. (2023e). [Photographie de la présentation du nouveau Peugeot 3008 Electrique à Sochaux (France) 2023] [Photographie] Documentation interne.
+* Figure 5 : Stellantis. (2022a). [Graphique du programme "Dare Forward 2023"] [Infographie]. Documentation interne. 
